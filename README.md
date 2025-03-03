@@ -2,10 +2,10 @@
 
 Testowe repo
 
-ulubiony kolor zielony
+### Najwazniejsze info!!
 
-ulubiony serial twin peaks
-
-ulubiony film mulholland drive
-
-ulubiony zespol fontaines dc
+- ulubiony kolor zielony
+- ulubiony serial twin peaks
+- ulubiony film mulholland drive
+- ulubiony zespol fontaines dc
+- plyty winylowe
